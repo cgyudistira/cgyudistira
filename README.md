@@ -168,25 +168,6 @@ Preserving Bali & Java's ancient scripts through OCR technology and transliterat
 
 </div>
 
-***
-
-## ☕ Support My Work
-
-<div align="center">
-
-**Like what I'm building?**\
-If my projects helped you or you simply enjoy what I do, consider buying me a coffee! ☕
-
-Your support motivates me to keep creating and sharing innovative solutions.
-
-[![PayPal](https://img.shields.io/badge/PayPal-Buy_Me_a_Coffee-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/cgyudistira)
-
-*Every cup fuels:* 💻 **More Projects** • 🚀 **Better Features** • 📚 **Continuous Learning**
-
-</div>
-
-***
-
 <div align="center">
 ### 💡 *"Innovation is taking two things that exist and putting them together in a new way."*
 
