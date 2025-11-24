@@ -153,20 +153,6 @@ Preserving Bali & Java's ancient scripts through OCR technology and transliterat
 
 </div>
 
-***
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=cgyudistira\&theme=tokyonight\&no-frame=true\&no-bg=true\&column=4\&row=2)
-
-</div>
-
-***
-
-## 📈 Contribution Graph
-
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cgyudistira\&theme=tokyo-night\&hide_border=true\&area=true)
