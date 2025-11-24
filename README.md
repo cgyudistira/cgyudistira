@@ -170,6 +170,25 @@ Preserving Bali & Java's ancient scripts through OCR technology and transliterat
 
 ***
 
+## ☕ Support My Work
+
+<div align="center">
+
+**Enjoying my open-source projects?**\
+Support the development and help keep the servers running! ☕
+
+Every contribution helps me dedicate more time to building innovative AI/ML solutions\
+and preserving cultural heritage through technology.
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/cgyudistira)
+
+*Your support enables:*\
+💻 **Server Costs** • ☕ **Coffee Fuel** • 📚 **Learning Resources** • 🚀 **New Features**
+
+</div>
+
+***
+
 <div align="center">
 
 ### 💡 *"Innovation is taking two things that exist and putting them together in a new way."*
