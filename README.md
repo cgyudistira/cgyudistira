@@ -168,6 +168,27 @@ Preserving Bali & Java's ancient scripts through OCR technology and transliterat
 
 </div>
 
+***
+
+## ☕ Support My Work
+
+<div align="center">
+
+**Like what I'm building?**\
+If my projects helped you or you simply enjoy what I do, consider buying me a coffee! ☕
+
+Your support motivates me to keep creating and sharing innovative solutions.
+
+[![PayPal](https://img.shields.io/badge/PayPal-Buy_Me_a_Coffee-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/cgyudistira)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/X8X71P0Y18)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://www.buymeacoffee.com/cgyudistira)
+
+*Every cup fuels:* 💻 **More Projects** • 🚀 **Better Features** • 📚 **Continuous Learning**
+
+</div>
+
+***
+
 <div align="center">
 ### 💡 *"Innovation is taking two things that exist and putting them together in a new way."*
 
