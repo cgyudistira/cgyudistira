@@ -10,43 +10,6 @@
 
 </div>
 
-***
-
-## 🎯 About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🚀 Professional Focus
-
-```yaml
-role: AI Engineer & Data Scientist
-specialization: [Machine Learning, Data Analytics, Automation]
-industry: Financial Technology & Cultural Preservation
-approach: Building AI solutions for real-world business impact
-```
-
-**💼 Fintech Expertise**\
-Developing intelligent credit scoring, risk assessment, and loan underwriting systems powered by AI/ML
-
-**🏛️ Cultural Innovation**\
-Leveraging technology to preserve and digitize Balinese cultural heritage through mobile applications
-
-**📊 Technical Leadership**\
-Creating enterprise-grade AI systems that transform financial services and cultural preservation
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-</td>
-</tr>
-</table>
-
-***
-
 ## �️ Tech Arsenal
 
 ### AI & Machine Learning
