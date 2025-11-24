@@ -14,19 +14,41 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-🔬 **AI & Data Science enthusiast** bridging the gap between cutting-edge technology and real-world impact
+### 🚀 What I Do
 
-💼 Specialized in building **intelligent fintech solutions** that revolutionize credit scoring, risk assessment, and loan underwriting using ML/AI
+```yaml
+role: AI Engineer & Data Scientist
+focus: [Fintech Innovation, Cultural Tech Preservation]
+expertise: [Machine Learning, Data Analytics, Automation]
+passion: Building intelligent systems that create real-world impact
+```
 
-🏛️ Passionate about **cultural preservation** through technology, creating mobile apps that keep Balinese heritage alive in the digital age
+**🔬 AI & Data Science**\
+Bridging the gap between cutting-edge technology and practical business solutions
 
-🚀 Combining **Machine Learning**, **Data Analytics**, and **Automation** to solve complex business challenges
+**� Fintech Innovation**\
+Building intelligent systems for credit scoring, risk assessment, and loan underwriting using ML/AI
 
-📊 Experienced in developing enterprise-grade AI systems for the **financial technology industry**
+**🏛️ Cultural Preservation**\
+Creating mobile apps that keep Balinese heritage alive in the digital age through technology
 
-<br clear="right"/>
+**📊 Industry Experience**\
+Developing enterprise-grade AI solutions for the financial technology sector
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ***
 
