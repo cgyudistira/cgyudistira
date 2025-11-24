@@ -123,30 +123,36 @@ Preserving Bali & Java's ancient scripts through OCR technology and transliterat
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cgyudistira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=cgyudistira&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cgyudistira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=cgyudistira&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgyudistira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgyudistira&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 ***
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=cgyudistira\&theme=tokyonight\&no-frame=true\&no-bg=true\&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=cgyudistira\&theme=tokyonight\&no-frame=true\&no-bg=true\&column=4\&row=2)
 
 </div>
 
 ***
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cgyudistira\&theme=tokyo-night\&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cgyudistira\&theme=tokyo-night\&hide_border=true\&area=true)
 
 </div>
 
