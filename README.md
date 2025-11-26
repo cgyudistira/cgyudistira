@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm `</cgyudistira>`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Specialist;Fintech+Innovation+Builder;Cultural+Tech+Preservationist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ccff03&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Specialist;Fintech+Innovation+Builder;Cultural+Tech+Preservationist" alt="Typing SVG" />
 
-[![Email](https://img.shields.io/badge/Email-cokorda%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:cokorda@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/cgyudistira?label=Follow\&style=for-the-badge\&logo=github\&color=181717)](https://github.com/cgyudistira)
-[![Profile Views](https://komarev.com/ghpvc/?username=cgyudistira\&style=for-the-badge\&color=00D9FF)](https://github.com/cgyudistira)
+[![Email](https://img.shields.io/badge/Email-cokorda%40gmail.com-ccff03?style=for-the-badge\&logo=gmail\&logoColor=000000\&labelColor=000000)](mailto:cokorda@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/cgyudistira?label=Follow\&style=for-the-badge\&logo=github\&color=ccff03\&logoColor=000000\&labelColor=000000)](https://github.com/cgyudistira)
+[![Profile Views](https://komarev.com/ghpvc/?username=cgyudistira\&style=for-the-badge\&color=ccff03\&label=VIEWS)](https://github.com/cgyudistira)
 
 </div>
 
@@ -47,30 +47,30 @@ Creating enterprise-grade AI systems that transform financial services and cultu
 
 ***
 
-## �️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 ### AI & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ccff03?style=for-the-badge\&logo=python\&logoColor=000000\&labelColor=1a1a1a)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ccff03?style=for-the-badge\&logo=tensorflow\&logoColor=000000\&labelColor=1a1a1a)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ccff03?style=for-the-badge\&logo=scikit-learn\&logoColor=000000\&labelColor=1a1a1a)
+![Pandas](https://img.shields.io/badge/Pandas-ccff03?style=for-the-badge\&logo=pandas\&logoColor=000000\&labelColor=1a1a1a)
+![NumPy](https://img.shields.io/badge/NumPy-ccff03?style=for-the-badge\&logo=numpy\&logoColor=000000\&labelColor=1a1a1a)
 
 ### Development & Frameworks
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-ccff03?style=for-the-badge\&logo=fastapi\&logoColor=000000\&labelColor=1a1a1a)
+![Streamlit](https://img.shields.io/badge/Streamlit-ccff03?style=for-the-badge\&logo=streamlit\&logoColor=000000\&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/React-ccff03?style=for-the-badge\&logo=react\&logoColor=000000\&labelColor=1a1a1a)
+![Next.js](https://img.shields.io/badge/Next.js-ccff03?style=for-the-badge\&logo=next.js\&logoColor=000000\&labelColor=1a1a1a)
+![Flutter](https://img.shields.io/badge/Flutter-ccff03?style=for-the-badge\&logo=flutter\&logoColor=000000\&labelColor=1a1a1a)
+![Dart](https://img.shields.io/badge/Dart-ccff03?style=for-the-badge\&logo=dart\&logoColor=000000\&labelColor=1a1a1a)
 
 ### Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ccff03?style=for-the-badge\&logo=git\&logoColor=000000\&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-ccff03?style=for-the-badge\&logo=docker\&logoColor=000000\&labelColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ccff03?style=for-the-badge\&logo=postgresql\&logoColor=000000\&labelColor=1a1a1a)
 
 ***
 
@@ -140,11 +140,11 @@ Preserving Bali & Java's ancient scripts through OCR technology and transliterat
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=cgyudistira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=cgyudistira&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=ccff03&text_color=ccff03&icon_color=ccff03" />
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=cgyudistira&theme=tokyonight&hide_border=true" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=cgyudistira&theme=dark&hide_border=true&background=000000&ring=ccff03&fire=ccff03&currStreakLabel=ccff03&sideLabels=ccff03&currStreakNum=ccff03&sideNums=ccff03&dates=ccff03" />
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgyudistira&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgyudistira&layout=compact&theme=dark&hide_border=true&langs_count=6&bg_color=000000&title_color=ccff03&text_color=ccff03" />
 
 </div>
 
@@ -154,7 +154,7 @@ Preserving Bali & Java's ancient scripts through OCR technology and transliterat
 
 <div align="center">
 
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=cgyudistira&theme=tokyonight&no-frame=true&no-bg=true&column=6&row=3&margin-w=10&margin-h=10" />
+<img width="80%" src="https://github-profile-trophy.vercel.app/?username=cgyudistira&theme=juicyfresh&no-frame=true&no-bg=false&column=6&row=3&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -164,7 +164,7 @@ Preserving Bali & Java's ancient scripts through OCR technology and transliterat
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cgyudistira\&theme=tokyo-night\&hide_border=true\&area=true)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cgyudistira&bg_color=000000&color=ccff03&line=ccff03&point=ccff03&area=true&hide_border=true&title_color=ccff03" />
 
 </div>
 
@@ -179,9 +179,9 @@ If my projects helped you or you simply enjoy what I do, consider buying me a co
 
 Your support motivates me to keep creating and sharing innovative solutions.
 
-[![PayPal](https://img.shields.io/badge/PayPal-Buy_Me_a_Coffee-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/cgyudistira)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/X8X71P0Y18)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://www.buymeacoffee.com/cgyudistira)
+[![PayPal](https://img.shields.io/badge/PayPal-Buy_Me_a_Coffee-ccff03?style=for-the-badge\&logo=paypal\&logoColor=000000\&labelColor=1a1a1a)](https://paypal.me/cgyudistira)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-ccff03?style=for-the-badge\&logo=ko-fi\&logoColor=000000\&labelColor=1a1a1a)](https://ko-fi.com/X8X71P0Y18)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-ccff03?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=000000\&labelColor=1a1a1a)](https://www.buymeacoffee.com/cgyudistira)
 
 *Every cup fuels:* 💻 **More Projects** • 🚀 **Better Features** • 📚 **Continuous Learning**
 
@@ -190,10 +190,11 @@ Your support motivates me to keep creating and sharing innovative solutions.
 ***
 
 <div align="center">
+
 ### 💡 *"Innovation is taking two things that exist and putting them together in a new way."*
 
 **Let's build the future together - where AI meets finance, and technology preserves culture** 🚀
 
-[![GitHub](https://img.shields.io/badge/Follow-cgyudistira-181717?style=for-the-badge\&logo=github)](https://github.com/cgyudistira)
+[![GitHub](https://img.shields.io/badge/Follow-cgyudistira-ccff03?style=for-the-badge\&logo=github\&logoColor=000000\&labelColor=1a1a1a)](https://github.com/cgyudistira)
 
 </div>
