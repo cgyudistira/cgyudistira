@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ccff03&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Specialist;Fintech+Innovation+Builder;Cultural+Tech+Preservationist" alt="Typing SVG" />
 
-[![Email](https://img.shields.io/badge/Email-cokorda%40gmail.com-ccff03?style=for-the-badge\&logo=gmail\&logoColor=000000\&labelColor=000000)](mailto:cokorda@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/cgyudistira?label=Follow\&style=for-the-badge\&logo=github\&color=ccff03\&logoColor=000000\&labelColor=000000)](https://github.com/cgyudistira)
-[![Profile Views](https://komarev.com/ghpvc/?username=cgyudistira\&style=for-the-badge\&color=ccff03\&label=VIEWS)](https://github.com/cgyudistira)
+[![Email](https://img.shields.io/badge/Email-cokorda%40gmail.com-ccff03?style=for-the-badge\&logo=gmail\&logoColor=000000\&labelColor=1a1a1a)](mailto:cokorda@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/cgyudistira?label=Follow\&style=for-the-badge\&logo=github\&color=ccff03\&logoColor=000000\&labelColor=1a1a1a)](https://github.com/cgyudistira)
+[![Profile Views](https://komarev.com/ghpvc/?username=cgyudistira\&style=for-the-badge\&color=ccff03\&label=VIEWS\&labelColor=1a1a1a)](https://github.com/cgyudistira)
 
 </div>
 
@@ -39,7 +39,7 @@ Creating enterprise-grade AI systems that transform financial services and cultu
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+<img src="https://placehold.co/600x400/000000/ccff03.png?text=AI+Engineer+%26+Data+Scientist&font=roboto" width="100%" alt="AI Engineer & Data Scientist">
 
 </td>
 </tr>
@@ -140,11 +140,11 @@ Preserving Bali & Java's ancient scripts through OCR technology and transliterat
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=cgyudistira&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=ccff03&text_color=ccff03&icon_color=ccff03" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=cgyudistira&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=ccff03&text_color=ccff03&icon_color=ccff03&border_color=1a1a1a" />
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=cgyudistira&theme=dark&hide_border=true&background=000000&ring=ccff03&fire=ccff03&currStreakLabel=ccff03&sideLabels=ccff03&currStreakNum=ccff03&sideNums=ccff03&dates=ccff03" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=cgyudistira&theme=dark&hide_border=true&background=000000&ring=ccff03&fire=ccff03&currStreakLabel=ccff03&sideLabels=ccff03&currStreakNum=ccff03&sideNums=ccff03&dates=ccff03&border=1a1a1a" />
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgyudistira&layout=compact&theme=dark&hide_border=true&langs_count=6&bg_color=000000&title_color=ccff03&text_color=ccff03" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgyudistira&layout=compact&theme=dark&hide_border=true&langs_count=6&bg_color=000000&title_color=ccff03&text_color=ccff03&border_color=1a1a1a" />
 
 </div>
 
@@ -154,7 +154,7 @@ Preserving Bali & Java's ancient scripts through OCR technology and transliterat
 
 <div align="center">
 
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=cgyudistira&theme=juicyfresh&no-frame=true&no-bg=false&column=6&row=3&margin-w=10&margin-h=10" />
+<img width="80%" src="https://github-profile-trophy.vercel.app/?username=cgyudistira&theme=dark&no-frame=true&no-bg=true&column=6&row=3&margin-w=10&margin-h=10" />
 
 </div>
 
