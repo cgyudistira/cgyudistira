@@ -39,7 +39,7 @@ Creating enterprise-grade AI systems that transform financial services and cultu
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://placehold.co/600x400/000000/ccff03.png?text=AI+Engineer+%26+Data+Scientist&font=roboto" width="100%" alt="AI Engineer & Data Scientist">
+<img src="assets/neon_ai_brain.png" width="100%" alt="AI Engineer & Data Scientist">
 
 </td>
 </tr>
